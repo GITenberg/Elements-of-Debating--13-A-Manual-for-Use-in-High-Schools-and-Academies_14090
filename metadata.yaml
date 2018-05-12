@@ -1,0 +1,27 @@
+_repo: Elements-of-Debating--13-A-Manual-for-Use-in-High-Schools-and-Academies_14090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lyon, Leverett S. (Leverett Samuel)
+    alias: Lyon, Leverett Samuel
+    birthdate: 1885
+    deathdate: 1959
+    gutenberg_agent_id: '5365'
+    url: http://www.gutenberg.org/2009/agents/5365
+description: ''
+gutenberg_issued: '2004-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Debates and debating'
+title: "Elements of Debating\r\nA Manual for Use in High Schools and Academies"
+url: http://www.gutenberg.org/ebooks/14090
